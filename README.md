@@ -42,11 +42,9 @@ To validate the functionality of the database system, you can use the `tests.py`
 ## ✅ How to Run Tests  
 1. Ensure you have Python installed.
 2. Open a terminal in the project directory.  
-
 3. Run the following command:  
    ```sh
    python3 tests.py
-
 
 ## Implementation Details 🔧
 The database uses:

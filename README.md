@@ -21,7 +21,7 @@ Run the program with a database file:
 ./main database.db
 ```
 
-### Commands 🖥️
+## Commands 🖥️
 - **Insert Data:**  
   ```sh
   insert <id> <username> <email>
@@ -39,14 +39,14 @@ Run the program with a database file:
 
 To validate the functionality of the database system, you can use the `tests.py` file. This script automates the testing of various database commands.  
 
-### ✅ How to Run Tests  
+## ✅ How to Run Tests  
 1. Ensure you have Python installed.
 2. Open a terminal in the project directory.  
 
 3. Run the following command:  
    ```sh
    python3 tests.py
-  ```
+
 
 ## Implementation Details 🔧
 The database uses:
